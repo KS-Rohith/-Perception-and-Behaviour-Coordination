@@ -5,3 +5,7 @@ In the development of an autonomous car controller within a simulated environmen
 The desired behavior was to ensure that the car stops when encountering a red traffic light and continues moving once the traffic light turns green, without compromising the existing functionalities. This integration required a robust perception system to detect traffic lights and a reliable control mechanism to manage the car's stopping and starting actions based on the traffic light signals.
 
 In this project, I developed and implemented the perception and control systems necessary for the car to respond to traffic lights effectively. The perception system was designed to accurately identify the state of the traffic lights (red or green) using sensor data and computer vision techniques. The control system was then responsible for stopping the car upon detecting a red light and resuming its motion when the light turned green, seamlessly integrating these new behaviors with the car's existing movement and navigation capabilities. This approach ensures the car maintains its path and continues to take random turns at junctions, while also adhering to traffic light signals, thereby enhancing both safety and realism in the simulation.
+
+![Screenshot 2024-06-19 214103](https://github.com/user-attachments/assets/9cfaa9fe-dc8d-4473-ac49-3a7861639936)
+![Screenshot 2024-06-19 190647](https://github.com/user-attachments/assets/76c12a98-b6be-4469-9127-4831f1558e35)
+![Screenshot 2024-06-19 232606](https://github.com/user-attachments/assets/a349ed86-af68-42da-9467-6b402760a273)
